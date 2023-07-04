@@ -1,0 +1,26 @@
+#product .card, #product .card .card-body {
+    overflow: hidden;
+}
+
+#product .card img {
+    width: 100%;
+    transition: all 0.5s;
+}
+
+#product .card:hover img {
+    transform: scale(1.3);
+}
+
+.bg {
+  
+    background-image: url(img/BG1.PNG);
+}
+
+#footer a {
+    text-decoration: none;
+}
+
+#footer ul {
+    list-style-type: none;
+    }
+
